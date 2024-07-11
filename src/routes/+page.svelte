@@ -34,7 +34,4 @@
 </section>
 
 <style>
-	body {
-		background-color: red;
-	}
 </style>
